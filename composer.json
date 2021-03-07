@@ -1,0 +1,21 @@
+{
+	"name": "cernozby/iucto",
+	"description": "iucto task package",
+	"keywords": ["iucto"],
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Zbysek Cernohous",
+			"role": "Developer"
+
+		}
+	],
+	"require": {
+		"php": ">=7.4",
+		"guzzlehttp/guzzle": "^7.2",
+		"tracy/tracy": "^2.8",
+		"phpunit/phpunit": "^9"
+	},
+	"minimum-stability": "stable"
+}
